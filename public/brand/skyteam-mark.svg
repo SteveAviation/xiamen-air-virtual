@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 350" width="350" height="350">
+  <rect width="350" height="350" rx="24" fill="#FFFFFF"/>
+  <circle cx="175" cy="150" r="96" fill="none" stroke="#0B1560" stroke-width="14"/>
+  <path d="M 92 176 C 130 150, 168 150, 206 172 C 232 186, 252 186, 268 172" fill="none" stroke="#1290D6" stroke-width="16" stroke-linecap="round"/>
+  <text x="175" y="292" text-anchor="middle" font-family="Lato, Helvetica, Arial, sans-serif" font-weight="700" font-size="42" letter-spacing="5" fill="#0B1560">SKYTEAM</text>
+</svg>

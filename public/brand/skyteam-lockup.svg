@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
+  <rect x="2" y="2" width="1196" height="256" rx="128" fill="#101A3A" stroke="#2A3560" stroke-width="2"/>
+  <text x="600" y="112" text-anchor="middle" font-family="Lato, Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="64" letter-spacing="6" fill="#F5F1E8">XIAMEN AIR</text>
+  <text x="600" y="182" text-anchor="middle" font-family="Lato, Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="38" letter-spacing="16" fill="#8FCBF0">SKYTEAM</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="badge">
+      <circle cx="256" cy="256" r="256"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#badge)">
+    <circle cx="256" cy="256" r="256" fill="#FFFFFF"/>
+
+    <!-- egret in flight: swept wings with body curling under a round eye cut-out -->
+    <g transform="translate(0,-14)">
+      <path fill="#1CA6DF" d="
+        M 52 150
+        C 122 136, 202 146, 246 174
+        C 264 186, 276 198, 284 210
+        C 300 180, 358 146, 456 140
+        C 420 190, 398 238, 388 274
+        C 380 292, 356 312, 324 316
+        C 292 320, 258 314, 238 296
+        C 210 282, 160 230, 116 198
+        C 92 182, 68 163, 52 150 Z"/>
+      <path fill="#FFFFFF" d="
+        M 290 176
+        C 322 184, 350 206, 366 234
+        C 380 258, 378 282, 360 290
+        C 340 298, 318 286, 306 266
+        C 294 244, 286 210, 290 176 Z"/>
+    </g>
+
+    <!-- three waves, light to deep -->
+    <g transform="translate(0,10)">
+    <path fill="#73C8F0" d="
+      M 10 350
+      C 110 324, 220 310, 312 318
+      C 246 340, 150 356, 60 366
+      C 32 369, 18 362, 10 350 Z"/>
+    <path fill="#18A3DE" d="
+      M 20 400
+      C 130 356, 250 330, 356 338
+      C 410 342, 450 340, 486 330
+      C 428 372, 326 396, 222 396
+      C 142 396, 60 410, 20 400 Z"/>
+    <path fill="#114F9C" d="
+      M 40 452
+      C 150 404, 262 376, 364 382
+      C 428 386, 472 380, 512 362
+      C 462 418, 374 464, 280 470
+      C 188 476, 100 480, 40 452 Z"/>
+    </g>
+  </g>
+</svg>
