@@ -1,5 +1,8 @@
 {
   "crons": [
-    { "path": "/api/cron/rotd", "schedule": "0 0 * * *" }
+    {
+      "path": "/api/cron/rotd",
+      "schedule": "0 16 * * *"
+    }
   ]
 }
